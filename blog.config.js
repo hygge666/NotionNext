@@ -18,7 +18,7 @@ THEME_SWITCH: process.env.NEXT_PUBLIC_THEME_SWITCH || true, // 是否显示切�
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '小白＾卟白', // 您的昵称 例如 小白卟白2025
   BIO: process.env.NEXT_PUBLIC_BIO || '一位致力于追逐梦想的奋斗青年💫', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://home2.hylove.top', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Notion, 博客', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '小白, 博客', // 网站关键词 英文逗号隔开
   BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico', // blog favicon 配置, 默认使用 /public/favicon.ico，支持在线图片，如 https://img.imesong.com/favicon.png
   BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '', // 备案号 赣ICP备20250418213-1
   BEI_AN_LINK: process.env.NEXT_PUBLIC_BEI_AN_LINK || 'https://beian.miit.gov.cn/', // 备案查询链接，如果用了萌备等备案请在这里填写
